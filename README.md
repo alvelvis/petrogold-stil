@@ -4,3 +4,15 @@ Files used in STIL2023 to present and test different versions of the gold-standa
 Paper: (soon)
 
 How to cite: (soon)
+
+Files follow this pattern:
+
+> pt_{a}-{b}-{c}-ud-{d}.conllu
+
+Where:
+
+* a: corpus (petrogold,bosque)
+* b: where it's published (petroles-v3,petroles-v2,ud-2.11)
+* c: variation (none for base,mwepos,simplificado)
+* d: partition (train,test,dev,test-system)
+  * `test-system` stands for the test file annotated by the model generated using train+dev
