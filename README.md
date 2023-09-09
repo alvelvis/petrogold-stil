@@ -1,11 +1,24 @@
 # petrogold-stil
 Files used in STIL2023 to present and test different versions of the gold-standard treebank PetroGold
 
-Paper: (soon)
+Title: Explorando variações no tagset e na anotação Universal Dependencies (UD) para Português: Possibilidades e resultados com base no treebank PetroGold
 
-Presentation: https://docs.google.com/presentation/d/1eQQCrYCpPgtIQ-pMuCXtDB_zb37Xe916i58-5AJ3-OM/
+Paper: https://sol.sbc.org.br/index.php/stil/article/view/25444
 
-How to cite: (soon)
+Presentation: https://docs.google.com/presentation/d/1eQQCrYCpPgtIQ-pMuCXtDB_zb37Xe916i58-5AJ3-OM
+
+How to cite:
+
+```
+@inproceedings{de2023explorando,
+  title={Explorando varia{\c{c}}{\~o}es no tagset e na anota{\c{c}}{\~a}o Universal Dependencies (UD) para Portugu{\^e}s: Possibilidades e resultados com base no treebank PetroGold},
+  author={de{ }Souza, Elvis and Freitas, Cl{\'a}udia},
+  booktitle={Anais do XIV Simp{\'o}sio Brasileiro de Tecnologia da Informa{\c{c}}{\~a}o e da Linguagem Humana},
+  pages={125--134},
+  year={2023},
+  organization={SBC}
+}
+```
 
 Files follow this pattern:
 
