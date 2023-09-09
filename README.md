@@ -3,6 +3,8 @@ Files used in STIL2023 to present and test different versions of the gold-standa
 
 Paper: (soon)
 
+Presentation: https://docs.google.com/presentation/d/1eQQCrYCpPgtIQ-pMuCXtDB_zb37Xe916i58-5AJ3-OM/
+
 How to cite: (soon)
 
 Files follow this pattern:
